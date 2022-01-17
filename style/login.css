@@ -1,0 +1,102 @@
+/****************************Login*****************************/
+
+
+h1{
+    color: white;
+    margin: 10px;
+}
+
+h2{
+    color: rgb(7, 160, 201);
+    margin-left: 75px;
+    float: left;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.container{
+    background-color:rgb(7, 160, 201);
+    width: 500px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 50px;
+   /* z-index: 50;*/
+
+
+}
+
+#mdp{
+    margin-top: 20px;
+    margin-left: 85px;
+    
+}
+
+#ident{
+    margin-top: 10px;
+    margin-left: 85px;
+
+}
+
+input{
+    width: 250px;
+    height: 24px;
+    background-color: rgb(231, 230, 230);
+    border: none;
+    
+}
+.form-check-input{
+    margin-top: 5px;
+    margin-left: 85px;
+    width: 10px;
+}
+
+#remember{
+    margin-top: -26px;
+    margin-left: 107px;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 85px;
+    width: 260px;
+    height: 25px;
+    background-color: rgb(7, 160, 201);
+    border: none;
+    color: white;
+}
+
+
+.fond-blanc{
+    background-color:white;
+    width: 400px;
+    height: 275px;
+    /*z-index: 100;*/
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.btn:hover{
+    background-color: rgb(31,59, 115);
+}
+
+#logo{
+    margin:10px;
+    float:right;
+    width: 70px;
+}
+
+i{
+   float: left;
+   margin-left: 60px;
+   margin-top: -26px;
+   color: rgb(7, 160, 201);
+   border: 1px solid white;
+   background-color: rgb(231, 230, 230);
+   padding: 4px;
+}
+p{
+    margin-top: 15px;
+    margin-left: 85px;
+}
+
+a{
+    text-decoration: none;
+}

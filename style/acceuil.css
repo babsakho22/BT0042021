@@ -1,0 +1,37 @@
+.presentation{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+}
+.text{
+    padding: 30px;
+    padding-top: 15px;
+}
+.presentation img{
+    height: 250px;
+    border: 1px solid rgb(147, 147, 147);
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.article{
+    padding: 20px;
+}
+.article img{
+    width: 150px;
+}
+.img{
+    padding-top: 15px;
+    width: 40px;
+}
+.p{
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+}
+.p1{
+    padding-top: 45px;
+}
+.p2{
+    padding-top: 35px;
+}
