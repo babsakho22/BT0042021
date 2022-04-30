@@ -37,7 +37,11 @@
             </div>
 
             <div class="genre">
-                  <input type="text" name= "genre"  id="gen" placeholder="Genre" >
+                  <select name="genre" id="gen"  >
+                        <option value="" selected disabled class="gen">Genre</option>
+                        <option value="homme" class="option">Homme</option>
+                        <option value="femme" class="option">Femme</option>
+                  </select>
             </div>
 
             <div class="niveau">
@@ -61,7 +65,7 @@
             </div>
             
 
-          <hr>
+             <div id="hr"><hr></div>
              <div id ="boutton">
              <button name="button" type="submit" class="btn btn-success">Ajouter</button>
              </div>

@@ -10,8 +10,8 @@
     include('header2.php');
     ?>
     <div class="presentation">
-        <img src="images/acceuil.png" alt="">
-        <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, temporibus delectus eius corrupti est odio pariatur maiores, facere velit perspiciatis quisquam dolore ab perferendis? Quasi, officia provident! Architecto, deserunt dolorum Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi omnis quisquam, nam aut molestias sit. Unde mollitia et qui eos officia, a, ducimus ullam suscipit, culpa dolore obcaecati natus officiis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quisquam qui labore minima dolorem earum pariatur porro quis obcaecati eos, molestiae voluptate ut harum quo vel sed vitae ex nam Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odit hic animi, porro voluptas culpa placeat explicabo, eos reiciendis, similique pariatur amet aspernatur voluptate numquam? Laborum sed consectetur exercitationem soluta?.</p>
+    <img src="images/code.png" alt="" >
+        <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, temporibus delectus eius corrupti est odio pariatur maiores, facere velit perspiciatis quisquam dolore ab perferendis? Quasi, officia provident! Architecto, deserunt dolorum Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi omnis quisquam, nam aut molestias sit. Unde mollitia et qui eos officia, a, ducimus ullam suscipit, culpa dolore obcaecati natus officiis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque quisquam qui labore minima dolorem earum pariatur porro quis obcaecati eos, molestiae voluptate ut harum quo vel sed vitae ex nam Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odit hic animi, porro voluptas culpa placeat explicabo, eos reiciendis, similique pariatur amet aspernatur voluptate numquam? Laborum sed consectetur ?.</p>
     </div>
     <div class="container">
         <div class="article">

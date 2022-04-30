@@ -8,8 +8,9 @@ header{
     border-top: 5px solid rgb(37, 42, 51);
 }
 .entete{
-    color: white;
+    color: red;
     background-color:rgb(7, 160, 201) ;
+    width: 100%;
 }
 .entete button{
     border-radius: 5px;
@@ -67,13 +68,13 @@ nav ul{
 nav li{
     display: block;
     list-style: none;
-    padding-right: 5px;
+    padding-right: 10px;
     
     
     flex: 1;
 }
 nav ul li{
-    width: 180px;
+    width: 100px;
     position: relative;
     text-align: center;
     
@@ -130,9 +131,10 @@ nav li:hover .sousMenu{
     margin-right: 25px;
 }
 .idc h1{
-    margin-top: -15px;
+    margin-top: -80px;
     color: rgb(0,32,96);
     font-family: 'Times New Roman';
+    font-weight: bold;
 }
 /*-------FOOTER----------*/
 .icon{
@@ -189,5 +191,4 @@ nav li:hover .sousMenu{
     background: #125688;
     color: white;
   }
- 
   
